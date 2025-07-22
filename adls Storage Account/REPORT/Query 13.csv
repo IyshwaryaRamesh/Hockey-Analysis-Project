@@ -1,0 +1,479 @@
+Player_ID,Player_Name,Country_Name,Club_Name
+1,Adrian,NA,Real Madrid
+2,Adrian,Netherlands,NA
+3,Adrian,NA,Real Sociedad
+4,Aguero,Italy,NA
+5,Aguero,NA,Sevilla FC
+6,Aguero,NA,Valencia
+7,Alberto M,Brasil,NA
+8,Alberto M,NA,Schalke
+9,Alberto M,NA,Everton
+10,Alessandro  Florenzi,NA,Barcelona
+11,Alessandro  Florenzi,Portugal,NA
+12,Alessandro  Florenzi,NA,RCD Espanyol
+13,Alessandro  Florenzi,NA,VFB Stuttgart
+14,Alessio Cerci,NA,Hamburger SV
+15,Alessio Cerci,Italy,NA
+16,Alessio Cerci,NA,NewCastle
+17,Alex Chamberlain,Italy,NA
+18,Alex Chamberlain,NA,Hamburger SV
+19,Alex Chamberlain,NA,NewCastle
+20,Alexis Sanchez,NA,Sevilla FC
+21,Alexis Sanchez,Italy,NA
+22,Alexis Sanchez,NA,Valencia
+23,Angel Di Maria,NA,Hamburger SV
+24,Angel Di Maria,NA,NewCastle
+25,Angel Di Maria,NA,Aston Villa
+26,Angel Di Maria,Italy,NA
+27,Antoine,NA,Man City
+28,Antoine,NA,Bayern Leverkusan
+29,Antoine,England,NA
+30,Antonio Cassano,NA,RCD Espanyol
+31,Antonio Cassano,NA,Chelsea
+32,Antonio Cassano,NA,Barcelona
+33,Antonio Cassano,Germany,NA
+34,Armindo Bruma,Spain,NA
+35,Armindo Bruma,NA,Hannover 96
+36,Armindo Bruma,NA,ManUtd
+37,Ashley Cole,Argentina,NA
+38,Ashley Cole,NA,Valencia
+39,Ashley Cole,NA,Sevilla FC
+40,Barthez,NA,Real Sociedad
+41,Barthez,NA,Real Madrid
+42,Barthez,Spain,NA
+43,Bernd Leno,NA,VFL Wolfsburg
+44,Bernd Leno,NA,Aston Villa
+45,Bernd Leno,Argentina,NA
+46,Bojan,NA,Aston Villa
+47,Bojan,Argentina,NA
+48,Bojan,NA,VFL Wolfsburg
+49,Buffon,NA,Levante
+50,Buffon,Mexico,NA
+51,Buffon,NA,Atheletico Madrid
+52,Cafu,Germany,NA
+53,Cafu,NA,VFB Stuttgart
+54,Cafu,NA,Chelsea
+55,Carlos Vela,NA,Atheletico Bilbao
+56,Carlos Vela,NA,Malaga FC
+57,Carlos Vela,Belgium,NA
+58,Carrick,Mexico,NA
+59,Carrick,NA,FC Koln
+60,Carrick,NA,Arsenal
+61,Carvajal,NA,Everton
+62,Carvajal,Mexico,NA
+63,Carvajal,NA,Schalke
+64,Cesc Fabregas,NA,Real Sociedad
+65,Cesc Fabregas,Spain,NA
+66,Cesc Fabregas,NA,Real Madrid
+67,Chris Smalling,NA,Man City
+68,Chris Smalling,Belgium,NA
+69,Chris Smalling,NA,Bayern Leverkusan
+70,Cristiano Ronaldo,Mexico,NA
+71,Cristiano Ronaldo,NA,Arsenal
+72,Cristiano Ronaldo,NA,FC Koln
+73,Daley Blind,NA,Sevilla FC
+74,Daley Blind,Italy,NA
+75,Daley Blind,NA,Valencia
+76,Dani Alves,NA,Hannover 96
+77,Dani Alves,NA,Real Madrid
+78,Dani Alves,Netherlands,NA
+79,Dani Alves,NA,Real Sociedad
+80,Daniel Sturridge,NA,Everton
+81,Daniel Sturridge,NA,Schalke
+82,Daniel Sturridge,Brasil,NA
+83,Danny Welbeck,Portugal,NA
+84,Danny Welbeck,NA,Barcelona
+85,Danny Welbeck,NA,RCD Espanyol
+86,David Alaba,NA,VFL Wolfsburg
+87,David Alaba,NA,NewCastle
+88,David Alaba,Argentina,NA
+89,David Alaba,NA,Aston Villa
+90,David De Gea,NA,Valencia
+91,David De Gea,NA,Sevilla FC
+92,David De Gea,Argentina,NA
+93,David Villa,NA,Atheletico Bilbao
+94,David Villa,NA,Malaga FC
+95,David Villa,England,NA
+96,David Villa,NA,Malaga FC
+97,Diego Coasta,NA,Dortmund
+98,Diego Coasta,Portugal,NA
+99,Diego Coasta,NA,Swanswa City
+100,Eden Hazard,NA,Dortmund
+101,Eden Hazard,Germany,NA
+102,Eden Hazard,NA,Swanswa City
+103,Edin Dzeko,NA,Atheletico Madrid
+104,Edin Dzeko,NA,Levante
+105,Edin Dzeko,Brasil,NA
+106,Edison Cavani,NA,Everton
+107,Edison Cavani,NA,Schalke
+108,Edison Cavani,Brasil,NA
+109,Emiliano,NA,Sunderland
+110,Emiliano,Netherlands,NA
+111,Emiliano,NA,Bayern Munich
+112,Erik Lamela,NA,Hamburger SV
+113,Erik Lamela,Argentina,NA
+114,Erik Lamela,NA,NewCastle
+115,Etienne,Belgium,NA
+116,Etienne,NA,Liverpool
+117,Etienne,NA,Wreder Brewman
+118,Evans,Brasil,NA
+119,Evans,NA,Atheletico Madrid
+120,Evans,NA,Levante
+121,Ezequiel Lavezzi,NA,Sunderland
+122,Ezequiel Lavezzi,Spain,NA
+123,Ezequiel Lavezzi,NA,Bayern Munich
+124,Ezra Rojas,NA,Chelsea
+125,Ezra Rojas,Germany,NA
+126,Ezra Rojas,NA,VFB Stuttgart
+127,Fabio,NA,Liverpool
+128,Fabio,NA,Wreder Brewman
+129,Fabio,NA,Atheletico Bilbao
+130,Fabio,England,NA
+131,Fabio Alexandre,Portugal,NA
+132,Fabio Alexandre,NA,Swanswa City
+133,Fabio Alexandre,NA,Dortmund
+134,Ferdinand,NA,Atheletico Madrid
+135,Ferdinand,Mexico,NA
+136,Ferdinand,NA,Levante
+137,Filipe luis,Brasil,NA
+138,Filipe luis,NA,Levante
+139,Filipe luis,NA,Atheletico Madrid
+140,Fletcher,NA,Atheletico Bilbao
+141,Fletcher,NA,Malaga FC
+142,Fletcher,England,NA
+143,Forrest Bradford,NA,VFL Wolfsburg
+144,Forrest Bradford,NA,Aston Villa
+145,Forrest Bradford,Italy,NA
+146,Francesco,NA,Dortmund
+147,Francesco,NA,Swanswa City
+148,Francesco,Germany,NA
+149,Frank Lampard,NA,Barcelona
+150,Frank Lampard,Portugal,NA
+151,Frank Lampard,NA,RCD Espanyol
+152,Fredericka Cleveland,Spain,NA
+153,Fredericka Cleveland,NA,Real Madrid
+154,Fredericka Cleveland,NA,Bayern Munich
+155,Fredericka Cleveland,NA,Real Sociedad
+156,Gabriel,NA,Chelsea
+157,Gabriel,NA,VFB Stuttgart
+158,Gabriel,NA,Dortmund
+159,Gabriel,Germany,NA
+160,Gareth Bale,Spain,NA
+161,Gareth Bale,NA,ManUtd
+162,Gareth Bale,NA,Hannover 96
+163,George Cross,NA,Dortmund
+164,George Cross,NA,RCD Espanyol
+165,George Cross,Portugal,NA
+166,George Cross,NA,Swanswa City
+167,Gerrad Pique,NA,ManUtd
+168,Gerrad Pique,Netherlands,NA
+169,Gerrad Pique,NA,Hannover 96
+170,Giggs,Brasil,NA
+171,Giggs,NA,Arsenal
+172,Giggs,NA,FC Koln
+173,Hernandez,NA,VFL Wolfsburg
+174,Hernandez,NA,Aston Villa
+175,Hernandez,Argentina,NA
+176,Hugo,NA,ManUtd
+177,Hugo,NA,Hannover 96
+178,Hugo,Spain,NA
+179,Hugo,NA,Real Madrid
+180,Hugo Lloris,NA,FC Koln
+181,Hugo Lloris,Brasil,NA
+182,Hugo Lloris,NA,Arsenal
+183,Hulk,England,NA
+184,Hulk,NA,Bayern Leverkusan
+185,Hulk,NA,Man City
+186,Iker Casillas,England,NA
+187,Iker Casillas,NA,Liverpool
+188,Iker Casillas,NA,Wreder Brewman
+189,Ima Hoover,NA,Real Sociedad
+190,Ima Hoover,Netherlands,NA
+191,Ima Hoover,NA,Real Madrid
+192,Isco,NA,RCD Espanyol
+193,Isco,NA,Barcelona
+194,Isco,Portugal,NA
+195,Jamea,NA,Sunderland
+196,Jamea,Spain,NA
+197,Jamea,NA,ManUtd
+198,Jamea,NA,Bayern Munich
+199,Javier Manquillo,NA,Swanswa City
+200,Javier Manquillo,NA,Dortmund
+201,Javier Manquillo,Germany,NA
+202,Javier Mascherano,NA,Valencia
+203,Javier Mascherano,NA,Sevilla FC
+204,Javier Mascherano,Argentina,NA
+205,Jerome Boateng,NA,VFL Wolfsburg
+206,Jerome Boateng,Italy,NA
+207,Jerome Boateng,NA,Aston Villa
+208,Joe Hart,NA,RCD Espanyol
+209,Joe Hart,NA,Barcelona
+210,Joe Hart,Portugal,NA
+211,Joel Campbell,Netherlands,NA
+212,Joel Campbell,NA,Real Sociedad
+213,Joel Campbell,NA,Real Madrid
+214,Jonas,Belgium,NA
+215,Jonas,NA,Bayern Leverkusan
+216,Jonas,NA,Man City
+217,Jordi Alba,Brasil,NA
+218,Jordi Alba,NA,FC Koln
+219,Jordi Alba,NA,Arsenal
+220,Jose Enrique,Germany,NA
+221,Jose Enrique,NA,Barcelona
+222,Jose Enrique,NA,RCD Espanyol
+223,Juan Isaac,Italy,NA
+224,Juan Isaac,NA,NewCastle
+225,Juan Isaac,NA,Hamburger SV
+226,Juan Manuel,NA,Real Madrid
+227,Juan Manuel,Spain,NA
+228,Juan Manuel,NA,Real Sociedad
+229,Kayler Navas,Mexico,NA
+230,Kayler Navas,NA,Atheletico Madrid
+231,Kayler Navas,NA,Levante
+232,Lani Hoffman,NA,Sunderland
+233,Lani Hoffman,NA,Bayern Munich
+234,Lani Hoffman,Spain,NA
+235,Lindegaard,Argentina,NA
+236,Lindegaard,NA,Valencia
+237,Lindegaard,NA,Sevilla FC
+238,Lionel Messi,NA,Chelsea
+239,Lionel Messi,NA,VFB Stuttgart
+240,Lionel Messi,Portugal,NA
+241,Lucas,Belgium,NA
+242,Lucas,NA,Liverpool
+243,Lucas,NA,Wreder Brewman
+244,Lucas Piazon,Netherlands,NA
+245,Lucas Piazon,NA,Hannover 96
+246,Lucas Piazon,NA,ManUtd
+247,Luis Suarez,NA,Valencia
+248,Luis Suarez,NA,Sevilla FC
+249,Luis Suarez,Italy,NA
+250,LuisRonaldo,NA,Bayern Munich
+251,LuisRonaldo,Spain,NA
+252,LuisRonaldo,NA,ManUtd
+253,LuisRonaldo,NA,Sunderland
+254,Luke Shaw,Netherlands,NA
+255,Luke Shaw,NA,Sunderland
+256,Luke Shaw,NA,Bayern Munich
+257,Luke Shaw,NA,Real Sociedad
+258,Manuel Neuer,NA,Man City
+259,Manuel Neuer,NA,Wreder Brewman
+260,Manuel Neuer,Belgium,NA
+261,Manuel Neuer,NA,Liverpool
+262,Marcelo,NA,VFB Stuttgart
+263,Marcelo,NA,Chelsea
+264,Marcelo,NA,Swanswa City
+265,Marcelo,Portugal,NA
+266,Marco,England,NA
+267,Marco,NA,Man City
+268,Marco,NA,Bayern Leverkusan
+269,Marco Rojo,NA,Atheletico Bilbao
+270,Marco Rojo,Belgium,NA
+271,Marco Rojo,NA,Malaga FC
+272,Marcos Junio,NA,Sevilla FC
+273,Marcos Junio,Argentina,NA
+274,Marcos Junio,NA,VFL Wolfsburg
+275,Marcos Junio,NA,Valencia
+276,Mario Balotelli,NA,Hamburger SV
+277,Mario Balotelli,NA,NewCastle
+278,Mario Balotelli,Italy,NA
+279,Mario Gomez,NA,ManUtd
+280,Mario Gomez,NA,Hannover 96
+281,Mario Gomez,Netherlands,NA
+282,Mario Gomez,NA,Sunderland
+283,Mario Gotze,England,NA
+284,Mario Gotze,NA,Man City
+285,Mario Gotze,NA,Bayern Leverkusan
+286,Mario Gotze,NA,Liverpool
+287,Mario Mandzukic,NA,Liverpool
+288,Mario Mandzukic,NA,Wreder Brewman
+289,Mario Mandzukic,England,NA
+290,Mats Hummels,NA,Levante
+291,Mats Hummels,Mexico,NA
+292,Mats Hummels,NA,Atheletico Madrid
+293,Max Kruse,Germany,NA
+294,Max Kruse,NA,Chelsea
+295,Max Kruse,NA,VFB Stuttgart
+296,Maximilian,Mexico,NA
+297,Maximilian,NA,FC Koln
+298,Maximilian,NA,Arsenal
+299,Memphis Depay,Mexico,NA
+300,Memphis Depay,NA,Everton
+301,Memphis Depay,NA,Schalke
+302,Mertesacker,Germany,NA
+303,Mertesacker,NA,Barcelona
+304,Mertesacker,NA,RCD Espanyol
+305,Mesut Ozil,Belgium,NA
+306,Mesut Ozil,NA,Atheletico Bilbao
+307,Mesut Ozil,NA,Malaga FC
+308,Nani,NA,Levante
+309,Nani,NA,Atheletico Madrid
+310,Nani,Brasil,NA
+311,Noah Whitfield,NA,Liverpool
+312,Noah Whitfield,Belgium,NA
+313,Noah Whitfield,NA,Wreder Brewman
+314,Olivier Girioud,NA,NewCastle
+315,Olivier Girioud,NA,Sevilla FC
+316,Olivier Girioud,NA,Hamburger SV
+317,Olivier Girioud,Argentina,NA
+318,Oscar,Portugal,NA
+319,Oscar,NA,Chelsea
+320,Oscar,NA,VFB Stuttgart
+321,Pablo,NA,VFL Wolfsburg
+322,Pablo,NA,Aston Villa
+323,Pablo,Argentina,NA
+324,Patrice Evra,NA,Aston Villa
+325,Patrice Evra,Italy,NA
+326,Patrice Evra,NA,Hamburger SV
+327,Patrice Evra,NA,VFL Wolfsburg
+328,Paul Scholes,NA,Hamburger SV
+329,Paul Scholes,Argentina,NA
+330,Paul Scholes,NA,NewCastle
+331,Paulo Dybala,NA,FC Koln
+332,Paulo Dybala,NA,Arsenal
+333,Paulo Dybala,Mexico,NA
+334,Pedro,NA,Bayern Leverkusan
+335,Pedro,Belgium,NA
+336,Pedro,NA,Man City
+337,Petr Cech,NA,Arsenal
+338,Petr Cech,NA,FC Koln
+339,Petr Cech,Brasil,NA
+340,Phelan Sampson,Portugal,NA
+341,Phelan Sampson,NA,Chelsea
+342,Phelan Sampson,NA,VFB Stuttgart
+343,Phil Jones,Spain,NA
+344,Phil Jones,NA,Real Madrid
+345,Phil Jones,NA,Real Sociedad
+346,Philipp Lahm,NA,Aston Villa
+347,Philipp Lahm,NA,VFL Wolfsburg
+348,Philipp Lahm,Italy,NA
+349,Pires,NA,Swanswa City
+350,Pires,Portugal,NA
+351,Pires,NA,Dortmund
+352,Radamel Falcao,NA,Wreder Brewman
+353,Radamel Falcao,NA,Liverpool
+354,Radamel Falcao,England,NA
+355,Rafael,NA,Real Madrid
+356,Rafael,Netherlands,NA
+357,Rafael,NA,Real Sociedad
+358,Ramires,NA,Levante
+359,Ramires,Mexico,NA
+360,Ramires,NA,Atheletico Madrid
+361,Raphael Varane,NA,Everton
+362,Raphael Varane,NA,Schalke
+363,Raphael Varane,Mexico,NA
+364,Ribery,NA,ManUtd
+365,Ribery,Spain,NA
+366,Ribery,NA,Hannover 96
+367,Ricardo,NA,Atheletico Bilbao
+368,Ricardo,NA,Malaga FC
+369,Ricardo,NA,Bayern Leverkusan
+370,Ricardo,England,NA
+371,Rivaldo,Mexico,NA
+372,Rivaldo,NA,Schalke
+373,Rivaldo,NA,Everton
+374,Robben,NA,Bayern Munich
+375,Robben,Spain,NA
+376,Robben,NA,ManUtd
+377,Robben,NA,Hannover 96
+378,Robert Lewandoski,NA,Liverpool
+379,Robert Lewandoski,NA,Wreder Brewman
+380,Robert Lewandoski,England,NA
+381,Ronaldinho,NA,Schalke
+382,Ronaldinho,NA,Everton
+383,Ronaldinho,Brasil,NA
+384,Samir Handanovic,NA,ManUtd
+385,Samir Handanovic,NA,Hannover 96
+386,Samir Handanovic,Netherlands,NA
+387,Sandro,Brasil,NA
+388,Sandro,NA,Levante
+389,Sandro,NA,Atheletico Madrid
+390,Santiago Arias,Netherlands,NA
+391,Santiago Arias,NA,Bayern Munich
+392,Santiago Arias,NA,Sunderland
+393,SebastianGiovinco,NA,Bayern Leverkusan
+394,SebastianGiovinco,Belgium,NA
+395,SebastianGiovinco,NA,Man City
+396,Sergio Ramos,NA,Man City
+397,Sergio Ramos,NA,Bayern Leverkusan
+398,Sergio Ramos,England,NA
+399,Sirigu,NA,Swanswa City
+400,Sirigu,NA,Dortmund
+401,Sirigu,Germany,NA
+402,Stephan,Germany,NA
+403,Stephan,NA,Barcelona
+404,Stephan,NA,RCD Espanyol
+405,Tallulah Leach,NA,Barcelona
+406,Tallulah Leach,NA,Dortmund
+407,Tallulah Leach,Germany,NA
+408,Tallulah Leach,NA,Swanswa City
+409,Ter Stegen,NA,Everton
+410,Ter Stegen,NA,Schalke
+411,Ter Stegen,Mexico,NA
+412,Thiago Alc�ntara,Netherlands,NA
+413,Thiago Alc�ntara,NA,Bayern Munich
+414,Thiago Alc�ntara,NA,Sunderland
+415,Thiago Silva,NA,Arsenal
+416,Thiago Silva,Brasil,NA
+417,Thiago Silva,NA,FC Koln
+418,Thibaut Courtois,Italy,NA
+419,Thibaut Courtois,NA,Valencia
+420,Thibaut Courtois,NA,Sevilla FC
+421,Thierry Henry,NA,Wreder Brewman
+422,Thierry Henry,NA,Atheletico Bilbao
+423,Thierry Henry,Belgium,NA
+424,Thierry Henry,NA,Malaga FC
+425,Tim Krul,NA,Chelsea
+426,Tim Krul,NA,VFB Stuttgart
+427,Tim Krul,Portugal,NA
+428,Tomas Kalas,NA,Hamburger SV
+429,Tomas Kalas,Argentina,NA
+430,Tomas Kalas,NA,NewCastle
+431,Tomas Rosicky,NA,Bayern Munich
+432,Tomas Rosicky,NA,Hannover 96
+433,Tomas Rosicky,NA,Sunderland
+434,Tomas Rosicky,Netherlands,NA
+435,Toni Kroos,Italy,NA
+436,Toni Kroos,NA,VFL Wolfsburg
+437,Toni Kroos,NA,Aston Villa
+438,Ulysses Blair,England,NA
+439,Ulysses Blair,NA,Malaga FC
+440,Ulysses Blair,NA,Atheletico Bilbao
+441,Valencia,Belgium,NA
+442,Valencia,NA,Malaga FC
+443,Valencia,NA,Man City
+444,Valencia,NA,Bayern Leverkusan
+445,Van Persie,NA,Dortmund
+446,Van Persie,Portugal,NA
+447,Van Persie,NA,Swanswa City
+448,Victor Valvdes,NA,Hannover 96
+449,Victor Valvdes,NA,ManUtd
+450,Victor Valvdes,Netherlands,NA
+451,Victor Valvdes,NA,Sunderland
+452,Vidic,NA,Chelsea
+453,Vidic,NA,VFB Stuttgart
+454,Vidic,Germany,NA
+455,Vieri,NA,Barcelona
+456,Vieri,Germany,NA
+457,Vieri,NA,RCD Espanyol
+458,Viktor Fischer,NA,Liverpool
+459,Viktor Fischer,Belgium,NA
+460,Viktor Fischer,NA,Wreder Brewman
+461,Vincent Kompany,NA,Bayern Munich
+462,Vincent Kompany,Spain,NA
+463,Vincent Kompany,NA,Sunderland
+464,Vladimir,NA,Atheletico Bilbao
+465,Vladimir,Belgium,NA
+466,Vladimir,NA,Malaga FC
+467,Wayne Rooney,Brasil,NA
+468,Wayne Rooney,NA,Schalke
+469,Wayne Rooney,NA,Everton
+470,Willian,NA,Arsenal
+471,Willian,NA,FC Koln
+472,Willian,Mexico,NA
+473,Zlatan Ibrahimovic,NA,NewCastle
+474,Zlatan Ibrahimovic,NA,Hamburger SV
+475,Zlatan Ibrahimovic,Argentina,NA
+476,javi Martinez,NA,Atheletico Bilbao
+477,javi Martinez,England,NA
+478,javi Martinez,NA,Malaga FC
